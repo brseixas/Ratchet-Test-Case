@@ -12,6 +12,8 @@
     <description>
 		An example using Ratchet with PhoneGap together.
     </description>
+    
+     <preference name="permissions" value="none"/>
 
     <author href="http://gatewit.com" email="bruno.seixas@construlink.com">
 		Ryan Stewart
